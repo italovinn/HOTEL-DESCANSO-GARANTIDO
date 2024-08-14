@@ -582,7 +582,7 @@ int main(){
     numEstadias = carregarEstadias(estadias, "estadias.txt");
     numQuartos = carregarQuartos(quartos, "quartos.txt");
 
-    printf("BEM VINDO AO HOTEL DESCANSO GARANTIDO!!\n\n");
+    printf("\n\n\nBEM VINDO AO HOTEL DESCANSO GARANTIDO!!\n\n");
 
     do{
         printf("\nMenu:\n");
